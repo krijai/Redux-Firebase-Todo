@@ -7,7 +7,6 @@ import { useState } from 'react';
 import { useSelector, shallowEqual } from 'react-redux';
 
 const App = () => {
-
   const [newItem, setNewItem] = useState(false);
   const addNewItem = () => {
     setNewItem(true);

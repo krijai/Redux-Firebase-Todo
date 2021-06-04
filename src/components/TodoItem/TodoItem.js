@@ -1,6 +1,6 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { useDispatch  } from 'react-redux';
-import { toggleComplete, toggleTodoItem } from '../../redux/todoSlice';
+import { toggleTodoItem } from '../../redux/todoSlice';
 import './TodoItem.scss';
 
 const TodoItem = (props) => {

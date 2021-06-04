@@ -1,5 +1,9 @@
 .list-item{
     list-style: none;
+    line-height: 2.5;
+    font-size: 18px;
+    color: #5A5A5A;
+    
     &.strike {
         color: #D8D8D7;
         text-decoration: line-through;
@@ -9,14 +13,14 @@
 .input-checkbox {
     appearance: none;
     position: relative;
+    padding-right: 5px;
 
     &::before {
     content: '';
     -webkit-appearance: none;
     background-color: transparent;
-    border: 2px solid #0079bf;
+    border: 2px solid #CACAC9;
     border-radius: 8px;
-    box-shadow: 0 1px 2px red, inset 0px -15px 10px -12px red;
     padding: 10px;
     display: inline-block;
     position: relative;
@@ -33,10 +37,13 @@
         position: absolute;
         top: 0;
         left: 10px;
-        width: 6px;
-        height: 14px;
-        border: solid #0079bf;
-        border-width: 0 2px 2px 0;
+        width: 7px;
+        height: 17px;
+        border: solid #818AE6;
+        border-width: 0 3px 3px 0;
         transform: rotate(45deg);
-        }
+        border-radius: 2px;
+        margin-right: 5px;
+        cursor: pointer;
+    }
 }

@@ -3,16 +3,25 @@
     background-color: #f5b642;
     height: 75px;
     width: 75px;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 1px 1px 5px 0 #000000;
     position: absolute;
     left: 50%;
     z-index: 4;
     bottom: 0;
     transform: translate(-50%, 40%);
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 1s ease-in-out;
+
+    // &:active {
+    //     transform: scale(0.98);
+    //     box-shadow: 0.5px 0.5px 2px 0 #000000;
+    // }
 
     .plus {
         color: #ffffff;
         font-size: 2.5em;
+        cursor: pointer;
     }
 }
 
