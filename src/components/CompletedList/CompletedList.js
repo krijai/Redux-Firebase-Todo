@@ -1,10 +1,18 @@
-import React from 'react'
+import React from 'react';
 
-const CompletedList = () => {
+const CompletedList = (props) => {
+const completedList = [];
     return (
-        <div>
-            Completed List Items
-        </div>
+        <ul>
+            <span>Completed List Items</span>
+            { props.todos ? 
+                props.todos.map((todo) => {
+                if(todo.completed) {
+                    return <li key={todo.id}>{todo.title}</li>
+                }
+            }): ''
+        }
+        </ul>
     )
 }
 
