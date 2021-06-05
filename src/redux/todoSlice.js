@@ -54,15 +54,11 @@ export const todoSlice = createSlice({
                 title: action.payload.title,
                 completed: false
             };
-            console.log("dispatch addTodo Hitttt", todo);
             state.push(todo);
-            console.log("dispatch addTodo After Hitttt", state);
         },
         toggleComplete: (state, action) => {
-            console.log('toggleComplete-------------', state);
             const index = state.findIndex((todo) => todo.id === action.payload.id);
-            console.log('index--------------',index);
-            // state[index].completed = action.payload.completed;
+            state[index].completed = action.payload.completed;
         }
     },
     extraReducers: {

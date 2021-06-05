@@ -27,6 +27,8 @@ const TodoList = (props) => {
     }
 
     useEffect(()=> {
+        /* Added a firestore snapshot event listner which dispatches gettodos 
+        function when ever there is an update in the firestore */
         const ref = firebase.firestore().collection("todos");
             ref.onSnapshot((querySnapshot) => {
                 console.log("onSnapshot Hit");
@@ -37,7 +39,7 @@ const TodoList = (props) => {
                 console.log('onSnapshot updatedState ------ ',updatedState);
                 dispatch(getTodos());
             });
-
+        // A dispatch function to get the list from the firestore when page loads for first time 
         dispatch(getTodos());
     }, [dispatch]);
 

@@ -11,6 +11,10 @@
     position: relative;
     min-height: 500px;
     background-color: #ffffff;
+
+    @media only screen and (max-width: 600px) {
+        width: 100%;
+    }
 }
 
 .tab-btn-wrapper {

@@ -5,6 +5,7 @@ import './TodoItem.scss';
 
 const TodoItem = (props) => {
     const dispatch = useDispatch();
+    // A toggle function triggred on checkbox click, which dispatches an action to update the firestore
     const handleCheckboxClick = () => {
         dispatch(toggleTodoItem({
             id: props.id,
