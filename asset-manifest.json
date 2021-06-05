@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Redux-Firebase-Todo/static/css/main.284f9d94.chunk.css",
+    "main.css": "/Redux-Firebase-Todo/static/css/main.d96302a6.chunk.css",
     "main.js": "/Redux-Firebase-Todo/static/js/main.35762e32.chunk.js",
     "main.js.map": "/Redux-Firebase-Todo/static/js/main.35762e32.chunk.js.map",
     "runtime-main.js": "/Redux-Firebase-Todo/static/js/runtime-main.620b76a3.js",
@@ -12,7 +12,7 @@
     "static/js/3.d8cc369f.chunk.js.map": "/Redux-Firebase-Todo/static/js/3.d8cc369f.chunk.js.map",
     "index.html": "/Redux-Firebase-Todo/index.html",
     "static/css/2.f48390cf.chunk.css.map": "/Redux-Firebase-Todo/static/css/2.f48390cf.chunk.css.map",
-    "static/css/main.284f9d94.chunk.css.map": "/Redux-Firebase-Todo/static/css/main.284f9d94.chunk.css.map",
+    "static/css/main.d96302a6.chunk.css.map": "/Redux-Firebase-Todo/static/css/main.d96302a6.chunk.css.map",
     "static/js/2.8a8048ea.chunk.js.LICENSE.txt": "/Redux-Firebase-Todo/static/js/2.8a8048ea.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/Redux-Firebase-Todo/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.620b76a3.js",
     "static/css/2.f48390cf.chunk.css",
     "static/js/2.8a8048ea.chunk.js",
-    "static/css/main.284f9d94.chunk.css",
+    "static/css/main.d96302a6.chunk.css",
     "static/js/main.35762e32.chunk.js"
   ]
 }
