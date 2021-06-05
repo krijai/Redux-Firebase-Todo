@@ -42,11 +42,11 @@
 
     .todo-list {
         @extend .fa;
-        @extend .fa-list;
+        @extend .fa-list-ul;
     }
 
     .completed-list {
         @extend .fa;
-        @extend .fa-clipboard;
+        @extend .fa-calendar-check-o;
     }
 }
