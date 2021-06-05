@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/redux-firebase-todo/static/css/main.1bedc4b8.chunk.css",
-    "main.js": "/redux-firebase-todo/static/js/main.f1ea41b9.chunk.js",
-    "main.js.map": "/redux-firebase-todo/static/js/main.f1ea41b9.chunk.js.map",
-    "runtime-main.js": "/redux-firebase-todo/static/js/runtime-main.79c7e3f3.js",
-    "runtime-main.js.map": "/redux-firebase-todo/static/js/runtime-main.79c7e3f3.js.map",
-    "static/css/2.a132962b.chunk.css": "/redux-firebase-todo/static/css/2.a132962b.chunk.css",
-    "static/js/2.1e468231.chunk.js": "/redux-firebase-todo/static/js/2.1e468231.chunk.js",
-    "static/js/2.1e468231.chunk.js.map": "/redux-firebase-todo/static/js/2.1e468231.chunk.js.map",
-    "static/js/3.3ed37b78.chunk.js": "/redux-firebase-todo/static/js/3.3ed37b78.chunk.js",
-    "static/js/3.3ed37b78.chunk.js.map": "/redux-firebase-todo/static/js/3.3ed37b78.chunk.js.map",
-    "index.html": "/redux-firebase-todo/index.html",
-    "static/css/2.a132962b.chunk.css.map": "/redux-firebase-todo/static/css/2.a132962b.chunk.css.map",
-    "static/css/main.1bedc4b8.chunk.css.map": "/redux-firebase-todo/static/css/main.1bedc4b8.chunk.css.map",
-    "static/js/2.1e468231.chunk.js.LICENSE.txt": "/redux-firebase-todo/static/js/2.1e468231.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/redux-firebase-todo/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/Redux-Firebase-Todo/static/css/main.40ce1971.chunk.css",
+    "main.js": "/Redux-Firebase-Todo/static/js/main.f1ea41b9.chunk.js",
+    "main.js.map": "/Redux-Firebase-Todo/static/js/main.f1ea41b9.chunk.js.map",
+    "runtime-main.js": "/Redux-Firebase-Todo/static/js/runtime-main.c89f4b6f.js",
+    "runtime-main.js.map": "/Redux-Firebase-Todo/static/js/runtime-main.c89f4b6f.js.map",
+    "static/css/2.f48390cf.chunk.css": "/Redux-Firebase-Todo/static/css/2.f48390cf.chunk.css",
+    "static/js/2.fa46f0cf.chunk.js": "/Redux-Firebase-Todo/static/js/2.fa46f0cf.chunk.js",
+    "static/js/2.fa46f0cf.chunk.js.map": "/Redux-Firebase-Todo/static/js/2.fa46f0cf.chunk.js.map",
+    "static/js/3.3ed37b78.chunk.js": "/Redux-Firebase-Todo/static/js/3.3ed37b78.chunk.js",
+    "static/js/3.3ed37b78.chunk.js.map": "/Redux-Firebase-Todo/static/js/3.3ed37b78.chunk.js.map",
+    "index.html": "/Redux-Firebase-Todo/index.html",
+    "static/css/2.f48390cf.chunk.css.map": "/Redux-Firebase-Todo/static/css/2.f48390cf.chunk.css.map",
+    "static/css/main.40ce1971.chunk.css.map": "/Redux-Firebase-Todo/static/css/main.40ce1971.chunk.css.map",
+    "static/js/2.fa46f0cf.chunk.js.LICENSE.txt": "/Redux-Firebase-Todo/static/js/2.fa46f0cf.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Redux-Firebase-Todo/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.79c7e3f3.js",
-    "static/css/2.a132962b.chunk.css",
-    "static/js/2.1e468231.chunk.js",
-    "static/css/main.1bedc4b8.chunk.css",
+    "static/js/runtime-main.c89f4b6f.js",
+    "static/css/2.f48390cf.chunk.css",
+    "static/js/2.fa46f0cf.chunk.js",
+    "static/css/main.40ce1971.chunk.css",
     "static/js/main.f1ea41b9.chunk.js"
   ]
 }
