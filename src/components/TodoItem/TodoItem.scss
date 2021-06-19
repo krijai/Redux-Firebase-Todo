@@ -13,15 +13,13 @@
 .input-checkbox {
     appearance: none !important;
     -moz-appearance: none !important;
-    -webkit-appearance: none !important;
     position: relative;
     padding-right: 5px;
 
     &::before {
     content: '';
-    -webkit-appearance: none !important;
+    appearance: none !important;
     -moz-appearance: none !important;
-    -webkit-appearance: none !important;
     background-color: transparent;
     border: 2px solid #CACAC9;
     border-radius: 8px;
